@@ -15,5 +15,8 @@
 Pros :grinning: | contras :thinking:
 ------------ | -------------
 1. Movilización fácil de objetos en espacios determinados | 1. Que no se puede salir del espacio determinado
+------------ | -------------
 2. Es muy útil para mover objetos pesados  | 2. Solo se puede llevar de uno a la vez 
+------------ | -------------
 3. Los servomotores varían la altura a la que se transportan las cosas | 3. El riesgo para los trabajadores en caso de accidente en las alturas 
+------------ | -------------
